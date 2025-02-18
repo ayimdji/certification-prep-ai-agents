@@ -1,6 +1,6 @@
 # AI Agents for Certification Exam Preparation&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnumerica-ideas%2Fcommunity%2Ftree%2Fmaster%2Fai%2Fcertification-prep-ai-agents&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://numericaideas.com/blog/building-ai-agents-for-certification-exam-prep-part-1)
 
-This code repository contains the codes for building AI agents to generate certification exam preparation materials. 
+This repository contains the codes for building AI agents to generate certification exam preparation materials. 
 
 **Important note**: This resource is for **educational purposes only** and does not guarantee the accuracy of the generated materials nor a successful exam.
 
